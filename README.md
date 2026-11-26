@@ -20,7 +20,7 @@ This repository holds the downloads. The source code is at
 
 Requires a Mac with Apple silicon (M1 or later) and macOS 13 or later.
 
-1. Download **`Kovan-0.2.0-arm64.dmg`** from the [latest release](https://github.com/idrisay/kovan-releases/releases/latest).
+1. Download **`Kovan-0.3.0-arm64.dmg`** from the [latest release](https://github.com/idrisay/kovan-releases/releases/latest).
 2. Open it and drag **Kovan** into **Applications**.
 3. Open Kovan from Applications. macOS will say it can't check Kovan for
    malicious software, because the app isn't notarised by Apple yet. Click
