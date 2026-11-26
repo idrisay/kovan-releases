@@ -58,4 +58,4 @@ replacing the old copy. Your settings and connections are kept.
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/idrisay/kovan-releases/issues).
+Found a bug or have an idea? [Open an issue](https://github.com/idrisay/kovan/issues).
